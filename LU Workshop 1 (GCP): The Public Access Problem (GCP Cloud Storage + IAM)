@@ -1,0 +1,21 @@
+
+***REFLECTION QUESTIONS***
+*What are the security risks of granting allUsers access?
+Ill-intentioned personnal or individual using improperly the data causing hazards to the business and it's clients.
+
+*How does GCS IAM compare to AWS IAM and Azure RBAC?
+-As of today, GCS seems to be more simplistic and clearer to use when it comes to storage bucket.
+
+*How does Uniform Bucket-Level Access simplify compliance?
+-Uniform level bucket access simplified the access by having a multitude of roleS that can be granted to different individuals.
+
+
+GCS >>>>> Core service for hosting and serving content in Google Cloud
+Public Access Policies >>>>> Critical for managing who can access stored data
+IAM Roles >>>>> Enforce least privilege and ensure secure delegation
+Uniform Bucket-Level Access >>>>> Simplifies permission management and compliance
+Troubleshooting >>>>> Strengthens diagnostic skills across platforms
+Business Thinking >>>>> Connects configuration choices to performance and client reliability
+
+
+***********QUESTION ABOUT UPLOADER@SHOPNOVA.COM NOT WORKING************
