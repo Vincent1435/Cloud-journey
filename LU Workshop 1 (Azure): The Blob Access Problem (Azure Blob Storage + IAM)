@@ -1,0 +1,15 @@
+*What business risk happens if Blob containers are too public?
+-Risk of misusage by unallowed or unqualified individuals.
+
+*How do SAS tokens differ from AWS pre-signed URLs?
+-Sas tokens gives a key temporaly to specified people.
+
+*Why should upload and read permissions be separated?
+permission to read allowed to view the content while uploading can copy the information and transfer it to another device.
+
+Blob Storage >>> Foundation for secure, scalable object storage in Azure
+Public Access Settings >>> Balances visibility and compliance for web assets
+RBAC (Role-Based Access Control) >>> Provides fine-grained, identity-based permission control
+SAS Tokens >>> Enables temporary and secure access for uploads or reads
+Troubleshooting >>> Builds problem-solving confidence and readiness
+Business Thinking >>> Links technical configuration to uptime, trust, and user experience
